@@ -31,3 +31,6 @@ I used internal JSON files
 - add dynamic fonts
 - add more objects
 - polish classes further by dividing large functions into smaller, reusable components to enhance maintainability and scalability
+
+## Video demonstration
+[Download file](https://github.com/RyshchukDmytro/Dmytro-Ryshchuk-AnswersAi-iOS/raw/refs/heads/main/ScreenRecording_12-05-2024%2011-27-53.mp4)

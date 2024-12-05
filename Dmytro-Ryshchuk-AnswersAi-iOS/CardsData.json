@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "imageName": "personal-best",
+    "placeholder": "APPS WE LOVE",
+    "title": "Make yourself a better person with Personal Best",
+    "subtitle": "Transform sweat sessions into delightful data.",
+    "banner": {
+        "imageName": "appLogo",
+        "title": "Personal Best - Workouts",
+        "subtitle": "Activity and fitness stats"
+    }
+  },
+  {
+    "id": 2,
+    "imageName": "runna",
+    "placeholder": "APPS WE LOVE",
+    "title": "Hit the Ground Running With Runna",
+    "subtitle": "Training plans for your next marathon or run around the park.",
+    "banner": {
+        "imageName": "appLogo",
+        "title": "Runna: Running Training Plans",
+        "subtitle": "5k, 10k, Half, Marathon, Ultra"
+    }
+  },
+  {
+    "id": 3,
+    "imageName": "minions-race",
+    "placeholder": "APPS WE LOVE",
+    "title": "Minnions racing",
+    "subtitle": "Play the funniest racing game!",
+    "banner": {
+        "imageName": "appLogo",
+        "title": "Minnions racing: Best racing app",
+        "subtitle": "3, 2, 1 - Go!"
+    }
+  }
+]

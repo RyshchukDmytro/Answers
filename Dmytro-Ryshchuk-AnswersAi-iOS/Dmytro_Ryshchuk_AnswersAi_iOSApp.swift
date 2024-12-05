@@ -11,7 +11,7 @@ import SwiftUI
 struct Dmytro_Ryshchuk_AnswersAi_iOSApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CardView()
         }
     }
 }

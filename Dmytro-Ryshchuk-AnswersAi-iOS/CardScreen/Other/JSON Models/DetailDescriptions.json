@@ -1,0 +1,18 @@
+[
+    {
+        "parts": [
+            { "text": "Whether you’re an ", "weight": "regular", "style": "normal" },
+            { "text": "ultramarathoner, a triathlete, or a total beginner, ", "weight": "bold", "style": "normal" },
+            { "text": "this virtual running coach can help you find your stride—and a supportive community.", "weight": "regular", "style": "normal" }
+        ]
+    },
+    {
+        "parts": [
+            { "text": "What we love: ", "weight": "bold", "style": "normal" },
+            { "text": "The holistic approach of ", "weight": "regular", "style": "normal" },
+            { "text": "Runna’s ", "weight": "regular", "style": "italic" },
+            { "text": "personalized fitness plans. Get real-time audio tips on pace and gait as you run as well as reminders to rest. When you're not on the move, the app may offer nutrition guidance or suggest cross-training workouts, like strength-building or Pilates.", "weight": "regular", "style": "normal" }
+        ]
+    }
+]
+

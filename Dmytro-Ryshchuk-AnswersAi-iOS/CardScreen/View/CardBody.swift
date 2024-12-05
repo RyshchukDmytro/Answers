@@ -7,15 +7,26 @@
 
 import SwiftUI
 
+enum CardBodyType {
+    case mainCard
+    case detailCard
+}
+
 struct CardBody: View {
+    @ObservedObject var sharedData: SharedData
     let item: CardItem
+    let type: CardBodyType
 
     var body: some View {
+        let cornerRadiusValue: CGFloat = type == .mainCard ? 16 : 0
+        let width = UIScreen.main.bounds.width
+        let screenWidth: CGFloat = type == .mainCard ? width - 32 : width
+        
         ZStack(alignment: .bottomLeading) {
             Image(item.imageName)
                 .resizable()
                 .aspectRatio(contentMode: .fill)
-                .frame(width: UIScreen.main.bounds.width - 32, height: 400)
+                .frame(width: screenWidth, height: 400)
                 .clipped()
                         
             LinearGradient(
@@ -45,9 +56,9 @@ struct CardBody: View {
                 }
                 .padding([.horizontal], 16)
                 
-                BottomBanner(banner: item.banner)
+                BottomBanner(sharedData: sharedData, banner: item.banner)
             }
         }
-        .cornerRadius(12)
+        .cornerRadius(cornerRadiusValue)
     }
 }

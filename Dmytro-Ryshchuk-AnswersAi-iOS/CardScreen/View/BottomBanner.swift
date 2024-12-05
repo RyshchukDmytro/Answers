@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct BottomBanner: View {
+    @ObservedObject var sharedData: SharedData
     let banner: Banner
     
     var body: some View {
@@ -39,13 +40,19 @@ struct BottomBanner: View {
                 Button(action: {
                     
                 }) {
-                    Text("Get")
-                        .font(.subheadline)
-                        .fontWeight(.bold)
-                        .frame(width: 70, height: 30)
-                        .background(.gray.opacity(0.95))
-                        .foregroundStyle(.white)
-                        .cornerRadius(15)
+                    if sharedData.status {
+                        Image(systemName: "icloud.and.arrow.down")
+                            .renderingMode(.template)
+                            .foregroundColor(.white)
+                    } else {
+                        Text("Get")
+                            .font(.subheadline)
+                            .fontWeight(.bold)
+                            .frame(width: 70, height: 30)
+                            .background(.gray.opacity(0.95))
+                            .foregroundStyle(.white)
+                            .cornerRadius(15)
+                    }
                 }
                 
                 Text("In-App Purchases")

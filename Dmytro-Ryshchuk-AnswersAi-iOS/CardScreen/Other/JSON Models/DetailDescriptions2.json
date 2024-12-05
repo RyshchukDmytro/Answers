@@ -1,0 +1,18 @@
+[
+    {
+        "parts": [
+            { "text": "Using your running experience and training schedule, ", "weight": "regular", "style": "normal" },
+            { "text": "Runna", "weight": "regular", "style": "italic" },
+            { "text": " can estimate your marathon time. Record your runs (or sync with compatible apps) to see your cadence, average heart rate, and other stats.", "weight": "regular", "style": "normal" }
+        ]
+    },
+    {
+        "parts": [
+            { "text": "Quick tip: ", "weight": "bold", "style": "normal" },
+            { "text": "When you select an upcoming race as your overall goal in ", "weight": "regular", "style": "normal" },
+            { "text": "Runna", "weight": "regular", "style": "italic" },
+            { "text": "—say, the Honolulu Marathon—you’ll gain access to a dedicated page on the Community tab connecting you to others training for the same race.", "weight": "regular", "style": "normal" }
+        ]
+    }
+]
+

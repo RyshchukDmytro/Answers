@@ -1,4 +1,6 @@
-# My AnswersAi-iOS Assessment
+# My Answers Assessment
+[Assessment link](https://github.com/RyshchukDmytro/Dmytro-Ryshchuk-AnswersAi-iOS/blob/main/Technical%20Assessment)
+
 This is a Swift-based iOS application built with Xcode and SwiftUI
 
 ## Requirements

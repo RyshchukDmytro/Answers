@@ -4,7 +4,7 @@
 
 The purpose of this assignment is to assess your iOS development skills, UI/UX attention to detail, and ability to implement smooth animations and gestures.
 You will recreate a Today View card from the Apple App Store using Flutter or Swift, focusing on both visual accuracy and interactive functionality based on
-the https://www.figma.com/design/Fg1USdY8YR3vIdMkxGSDLM/Untitled-(Copy)?node-id=0-1&t=g3TAZfcPotwPAtUr-1
+the [here](https://www.figma.com/design/Fg1USdY8YR3vIdMkxGSDLM/Untitled-(Copy)?node-id=0-1&t=g3TAZfcPotwPAtUr-1)
 
 **Duration:** This task is estimated to take 4-5 hours. You have 5 days from receiving the assignment to submit your work. If you need more time, please email *** for an extension.
 
@@ -62,8 +62,8 @@ Evaluation Criteria
     - The code should be modular, reusable, and well-structured
 - **Dynamic Data:** Use a local JSON file or mock API to simulate content loading.
 - **External Resources:** You may use online resources or generative AI tools (like ChatGPT), but be ready to explain your decisions.
-- **Design Reference: https://www.figma.com/design/Fg1USdY8YR3vIdMkxGSDLM/Untitled-(Copy)?node-id=0-1&t=g3TAZfcPotwPAtUr-1 **
-- **Video Reference: https://drive.google.com/file/d/1G3O5jylu631fEUgycwLL2_jXIQ4niMkN/view **
+- **Design Reference: [here](https://www.figma.com/design/Fg1USdY8YR3vIdMkxGSDLM/Untitled-(Copy)?node-id=0-1&t=g3TAZfcPotwPAtUr-1)**
+- **Video Reference: [here](https://drive.google.com/file/d/1G3O5jylu631fEUgycwLL2_jXIQ4niMkN/view)**
 
 **Submission Instructions**
 

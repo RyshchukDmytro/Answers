@@ -1,5 +1,5 @@
 # My Answers Assessment
-[Assessment link](https://github.com/RyshchukDmytro/Dmytro-Ryshchuk-AnswersAi-iOS/blob/main/Technical%20Assessment)
+[Assessment link](https://github.com/RyshchukDmytro/Answers/blob/main/Technical%20Assessment.md)
 
 This is a Swift-based iOS application built with Xcode and SwiftUI
 
